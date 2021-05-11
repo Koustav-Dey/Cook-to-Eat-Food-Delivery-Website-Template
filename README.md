@@ -1,4 +1,5 @@
-# Cook-to-Eat-Food-Delivery-Website-Template      [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+# Cook-to-Eat-Food-Delivery-Website-Template      [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
+
 
 
 
