@@ -4,7 +4,7 @@
 
 
 Hii  I am Koustav. I made this website with HTML And CSS -media query This website is Fully Responsive . Basically its a Food devivery resturants Website Template.
-You can use it as a Food Delivery Website Template.
+You can use it as a Food Delivery Website Template. 😉
 
 ### Demo 
 
